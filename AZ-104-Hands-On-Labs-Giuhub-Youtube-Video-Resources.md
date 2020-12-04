@@ -26,7 +26,7 @@ AZ 104 - Lab Videos:
 
 Lab 01 - Manage Azure Active Directory Identities
 
-    Task 1: Create and configure Azure AD users - https://youtu.be/_HiPZ_SJJ0w
+    Task 1: Create and configure Azure AD users - https://youtu.be/_HiPZ_SJJ0w(https://youtu.be/_HiPZ_SJJ0w)
     Task 2: Create Azure AD groups with assigned and dynamic membership - https://youtu.be/pehu0crjhXo
     Task 3: Create an Azure Active Directory (AD) tenant - https://youtu.be/Pqa3x6s4ms8
     Task 4: Manage Azure AD guest users - https://youtu.be/KHeYTRjFt6w
